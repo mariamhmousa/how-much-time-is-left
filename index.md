@@ -18,6 +18,6 @@ layout: default
 </style>
 
 <div class="countdown-wrapper">
-  <h1>Workday Countdown</h1>
+  <h1 id="header-1">Workday Countdown</h1>
   <div id="timer">Loading...</div>
 </div>
